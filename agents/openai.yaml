@@ -1,0 +1,4 @@
+interface:
+  display_name: "Logo AI IIGC"
+  short_description: "Generate multi-style AIGC logo concepts"
+  default_prompt: "Use $logo-ai-iigc to generate five logo style directions for an AIGC platform and package the best concepts."
